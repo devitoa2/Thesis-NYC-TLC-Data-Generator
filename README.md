@@ -1,5 +1,6 @@
 # Thesis NYC TLC Data Generator
  This program generates the aggregated data found in the Dataset Tool's data.sql file.
+ NOTE: The main application already contains the necessary data to run in its data.sql file, you should only change this file or use this generator program if you wish to change the trip record data being used.
 
 ## How to use
 First, you will need to visit https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page and download the trip record data for the years of your choice.
